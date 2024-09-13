@@ -11,3 +11,30 @@ bootstrap
 
 vue
   <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+0911 debug & update & 補字
+update: new function -> 增加review功能
+醫療：何時、過來
+購物：買單
+交通：右轉、左轉、等一下、首先
+居家：(有兩張床:已刪除)、燈、看、行動電話
+
+0911 檢查model可用性
+1. Buy_Shopping_Money.h5: 可 /不可
+2. Doctor_Contact_Help.h5: 可 /不可
+3. Key_Sock_Close.h5: 可 /不可
+4. new_Buy_Shopping.h5: 可 /不可
+
+0912 開會內容 待修改
+技術：
+加一個視窗背景
+調整失敗影片的速度
+正確的動作要補動作名稱
+model 重訓練 / 把正確率很高的拉出來demo
+抓沒有影片的例外 catch
+用餐：2熱 2吃飽了
+
+報告組：
+最前面要把前提講出來：手語沒有文法順序
+demo 流程重想
+
